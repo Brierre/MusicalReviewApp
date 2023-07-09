@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'Playbill';
+  src: local('Playbill'),
+    url('./assets/fonts/Playbill.otf');
+}
+
+.playbill {
+  background-color: #FFFC01;
+  font-family: 'Playbill';
+  font-size: xx-large;
+  }
+
+  .playbill-link {
+    border-style: 2px solid black;
+  }
+
+  .playbill-link:hover {
+    background-color: rgb(255, 252, 1, 80%) !important;
+    color: #025acc !important;
+  }
+
+.edge {
+  border-color: #FFFC01;
+}
+
+.outline-warning {
+  background-color: #FFFC01 !important;
+  color: #016fff !important;
+}
+
+.outline-warning:hover {
+  background-color: rgb(255, 252, 1, 80%) !important;
+  color: #025acc !important;
+}
+
+.radio-custom {
+  opacity: 0;
+  position: absolute; 
+}
+
+.reviews-section {
+  padding-top: 20px;
+}
+
+img:hover {
+  box-shadow: 4px 4px 5px 2px #025acc;
+  border: 1px solid #FFFC01;
+}
