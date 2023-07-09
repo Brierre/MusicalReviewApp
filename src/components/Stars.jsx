@@ -25,7 +25,11 @@ const Stars = props => {
                             color={ratingValue <= (hover || rating) ? '#ffc107' : 'gray'}
                             size={20}
                             onMouseEnter={() => setHover(ratingValue)}
-                            onMouseLeave={() => setHover(null)}/>
+                            onMouseLeave={() => setHover(null)}
+                            onClick={() => {
+                                setRating(ratingValue);
+                                props.changeRating(ratingValue);
+                            }}/>
                     </label>
                 );
             })}
