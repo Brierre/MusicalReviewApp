@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Brierre.github.io/MusicalReviewApp/static/css/main.e2786541.css",
-    "main.js": "/Brierre.github.io/MusicalReviewApp/static/js/main.64d9f746.js",
-    "static/js/787.657ba7df.chunk.js": "/Brierre.github.io/MusicalReviewApp/static/js/787.657ba7df.chunk.js",
+    "main.css": "/Brierre.github.io/MusicalReviewApp/static/css/main.6058aedc.css",
+    "main.js": "/Brierre.github.io/MusicalReviewApp/static/js/main.b7053514.js",
+    "static/js/787.a5fa7e0f.chunk.js": "/Brierre.github.io/MusicalReviewApp/static/js/787.a5fa7e0f.chunk.js",
     "static/media/comeFromAway.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/comeFromAway.42ef51e59f3ad7db9088.jpg",
     "static/media/spongebobTheMusical.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/spongebobTheMusical.eb5ab28f373a5bd752a4.jpg",
     "static/media/missSaigon.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/missSaigon.12fecf7d00d90dc1a559.jpg",
@@ -16,12 +16,12 @@
     "static/media/pippin.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/pippin.e4d31aae088678f95d3b.jpg",
     "static/media/Playbill.otf": "/Brierre.github.io/MusicalReviewApp/static/media/Playbill.36c3646acfdf7251e2a2.otf",
     "index.html": "/Brierre.github.io/MusicalReviewApp/index.html",
-    "main.e2786541.css.map": "/Brierre.github.io/MusicalReviewApp/static/css/main.e2786541.css.map",
-    "main.64d9f746.js.map": "/Brierre.github.io/MusicalReviewApp/static/js/main.64d9f746.js.map",
-    "787.657ba7df.chunk.js.map": "/Brierre.github.io/MusicalReviewApp/static/js/787.657ba7df.chunk.js.map"
+    "main.6058aedc.css.map": "/Brierre.github.io/MusicalReviewApp/static/css/main.6058aedc.css.map",
+    "main.b7053514.js.map": "/Brierre.github.io/MusicalReviewApp/static/js/main.b7053514.js.map",
+    "787.a5fa7e0f.chunk.js.map": "/Brierre.github.io/MusicalReviewApp/static/js/787.a5fa7e0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2786541.css",
-    "static/js/main.64d9f746.js"
+    "static/css/main.6058aedc.css",
+    "static/js/main.b7053514.js"
   ]
 }
