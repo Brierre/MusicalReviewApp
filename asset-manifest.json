@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Brierre.github.io/MusicalReviewApp/static/css/main.6058aedc.css",
-    "main.js": "/Brierre.github.io/MusicalReviewApp/static/js/main.b7053514.js",
-    "static/js/787.a5fa7e0f.chunk.js": "/Brierre.github.io/MusicalReviewApp/static/js/787.a5fa7e0f.chunk.js",
-    "static/media/comeFromAway.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/comeFromAway.42ef51e59f3ad7db9088.jpg",
-    "static/media/spongebobTheMusical.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/spongebobTheMusical.eb5ab28f373a5bd752a4.jpg",
-    "static/media/missSaigon.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/missSaigon.12fecf7d00d90dc1a559.jpg",
-    "static/media/hadestown.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/hadestown.fdfe1a2f6ef527476a94.jpg",
-    "static/media/theMusicMan.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/theMusicMan.bc1279a4ed2f57c39b4f.jpg",
-    "static/media/littleShop.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/littleShop.394b1c8f311cb144c26f.jpg",
-    "static/media/intoTheWoods.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/intoTheWoods.be3504f4d0aaccd66efc.jpg",
-    "static/media/littleWomen.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/littleWomen.2973bd4a3352f6c059e0.jpg",
-    "static/media/chicago.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/chicago.aaea0785d4cdbdab7fb8.jpg",
-    "static/media/phantomOfTheOpera.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/phantomOfTheOpera.93c4df304c0b14de1fe3.jpg",
-    "static/media/pippin.jpg": "/Brierre.github.io/MusicalReviewApp/static/media/pippin.e4d31aae088678f95d3b.jpg",
-    "static/media/Playbill.otf": "/Brierre.github.io/MusicalReviewApp/static/media/Playbill.36c3646acfdf7251e2a2.otf",
-    "index.html": "/Brierre.github.io/MusicalReviewApp/index.html",
-    "main.6058aedc.css.map": "/Brierre.github.io/MusicalReviewApp/static/css/main.6058aedc.css.map",
-    "main.b7053514.js.map": "/Brierre.github.io/MusicalReviewApp/static/js/main.b7053514.js.map",
-    "787.a5fa7e0f.chunk.js.map": "/Brierre.github.io/MusicalReviewApp/static/js/787.a5fa7e0f.chunk.js.map"
+    "main.css": "/brierre.github.io/MusicalReviewApp/static/css/main.1ef35762.css",
+    "main.js": "/brierre.github.io/MusicalReviewApp/static/js/main.e9183834.js",
+    "static/js/787.a5fa7e0f.chunk.js": "/brierre.github.io/MusicalReviewApp/static/js/787.a5fa7e0f.chunk.js",
+    "static/media/comeFromAway.jpg": "/brierre.github.io/MusicalReviewApp/static/media/comeFromAway.42ef51e59f3ad7db9088.jpg",
+    "static/media/spongebobTheMusical.jpg": "/brierre.github.io/MusicalReviewApp/static/media/spongebobTheMusical.eb5ab28f373a5bd752a4.jpg",
+    "static/media/missSaigon.jpg": "/brierre.github.io/MusicalReviewApp/static/media/missSaigon.12fecf7d00d90dc1a559.jpg",
+    "static/media/hadestown.jpg": "/brierre.github.io/MusicalReviewApp/static/media/hadestown.fdfe1a2f6ef527476a94.jpg",
+    "static/media/theMusicMan.jpg": "/brierre.github.io/MusicalReviewApp/static/media/theMusicMan.bc1279a4ed2f57c39b4f.jpg",
+    "static/media/littleShop.jpg": "/brierre.github.io/MusicalReviewApp/static/media/littleShop.394b1c8f311cb144c26f.jpg",
+    "static/media/intoTheWoods.jpg": "/brierre.github.io/MusicalReviewApp/static/media/intoTheWoods.be3504f4d0aaccd66efc.jpg",
+    "static/media/littleWomen.jpg": "/brierre.github.io/MusicalReviewApp/static/media/littleWomen.2973bd4a3352f6c059e0.jpg",
+    "static/media/chicago.jpg": "/brierre.github.io/MusicalReviewApp/static/media/chicago.aaea0785d4cdbdab7fb8.jpg",
+    "static/media/phantomOfTheOpera.jpg": "/brierre.github.io/MusicalReviewApp/static/media/phantomOfTheOpera.93c4df304c0b14de1fe3.jpg",
+    "static/media/pippin.jpg": "/brierre.github.io/MusicalReviewApp/static/media/pippin.e4d31aae088678f95d3b.jpg",
+    "static/media/Playbill.otf": "/brierre.github.io/MusicalReviewApp/static/media/Playbill.36c3646acfdf7251e2a2.otf",
+    "index.html": "/brierre.github.io/MusicalReviewApp/index.html",
+    "main.1ef35762.css.map": "/brierre.github.io/MusicalReviewApp/static/css/main.1ef35762.css.map",
+    "main.e9183834.js.map": "/brierre.github.io/MusicalReviewApp/static/js/main.e9183834.js.map",
+    "787.a5fa7e0f.chunk.js.map": "/brierre.github.io/MusicalReviewApp/static/js/787.a5fa7e0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6058aedc.css",
-    "static/js/main.b7053514.js"
+    "static/css/main.1ef35762.css",
+    "static/js/main.e9183834.js"
   ]
 }
